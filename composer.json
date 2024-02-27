@@ -1,0 +1,21 @@
+{
+    "name": "damir-company/typo3-demo3",
+    "type": "typo3-cms-extension",
+    "description": "",
+    "homepage": "https://typo3demo-3.ddev.site/",
+    "license": ["GPL-2.0-or-later"],
+    "keywords": ["TYPO3 CMS"],
+    "require": {
+        "bk2k/bootstrap-package": "^13.0 || ^14.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "DamirCompany\\Typo3Demo3\\": "Classes/"
+        }
+    },
+    "extra": {
+        "typo3/cms": {
+            "extension-key": "typo3_demo3"
+        }
+    }
+}

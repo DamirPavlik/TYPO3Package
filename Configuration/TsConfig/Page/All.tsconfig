@@ -1,0 +1,7 @@
+#
+# PageTS for Typo3 Demo 3
+#
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:typo3_demo3/Configuration/TsConfig/Page/RTE.tsconfig">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:typo3_demo3/Configuration/TsConfig/Page/TCEFORM.tsconfig">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:typo3_demo3/Configuration/TsConfig/Page/TCEMAIN.tsconfig">
+<INCLUDE_TYPOSCRIPT: source="FILE:EXT:typo3_demo3/Configuration/TsConfig/Page/Mod/WebLayout/BackendLayouts.tsconfig">
